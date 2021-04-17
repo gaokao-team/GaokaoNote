@@ -1,4 +1,4 @@
-# Anki 卡牌原则
+# Anki 卡牌规范
 
 ###### tags: `Other`
 
@@ -98,3 +98,15 @@ Anki 卡牌是用于辅助背诵的。由于 Anki 是本地软件，因此必须
 具体请看图。
 
 ![image.png](https://b3logfile.com/siyuan/1609132319768/assets/image-20210417111942-t2rlyey.png)
+
+---
+
+制好的 Anki 卡牌，按照上图的方式导出后，应当上传到指定位置。
+具体地，在 Teambition 文件功能中，对应科目的文件夹下。
+
+上传文件的名称需与文件对应的文档一致。
+上传后，在 Teambition 对应的任务下添加关联。
+
+![image.png](https://b3logfile.com/siyuan/1609132319768/assets/image-20210417113034-o4vs4vk.png)
+
+![image.png](https://b3logfile.com/siyuan/1609132319768/assets/image-20210417113054-sye6n1f.png)
