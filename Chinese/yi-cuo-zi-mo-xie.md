@@ -1,5 +1,8 @@
 # 语文易错字默写
 
+[![hackmd-github-sync-badge](https://hackmd.io/duC0D_5ZRQuyY_GPz-qodQ/badge)](https://hackmd.io/duC0D_5ZRQuyY_GPz-qodQ)
+
+
 ###### tags: `Chinese`
 
 Tag:
