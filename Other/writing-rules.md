@@ -80,7 +80,7 @@ Use hard break for two seperate topics.
 - 化学反应方程式 $\ce{2H2O2 ->[催化剂][\Delta] 2H2O + O2 ^}$
 
 主要使用于化学科目中，更多有关的化学书写语法请查看 [mhchem for MathJax](https://mhchem.github.io/MathJax-mhchem/).  
-**如果需要使用化学包 `\ce{}`，请在文档结尾添加 `$\require{mhchem}$`**
+**如果需要使用化学包 `\ce{}`，请在文档开头添加 `$\require{mhchem}$`**
 
 ## 大纲化原则
 
