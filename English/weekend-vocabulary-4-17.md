@@ -1,5 +1,8 @@
 # 英语周末作业 (4 月 17 日) 知识点整理
 
+[![hackmd-github-sync-badge](https://hackmd.io/TCr6SyDfRm6lJ8EUtJT6xg/badge)](https://hackmd.io/TCr6SyDfRm6lJ8EUtJT6xg)
+
+
 ###### tags: `English`
 
 ## 单词
@@ -56,6 +59,18 @@ v. 奉献
 accommodate  
 v. 容纳；满足；适应，使适应
 
+contract  
+n. 合同
+
+ultimate  
+adj. 最终的
+
+urgent  
+adj. 紧迫的
+
+striking  
+adj. 引人注目的
+
 ## 短语
 
 write back  
@@ -63,3 +78,6 @@ write back
 
 hold back  
 忍住
+
+be consistent with  
+与……一致
