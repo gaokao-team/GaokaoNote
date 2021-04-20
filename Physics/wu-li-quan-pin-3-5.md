@@ -1,3 +1,4 @@
+[![hackmd-github-sync-badge](https://hackmd.io/6ISsRBnJTdaaOijvZKSj6w/badge)](https://hackmd.io/6ISsRBnJTdaaOijvZKSj6w)
 $\require{mhchem}$  
   
 # 物理全品选修 3-5 知识点整理  
@@ -283,8 +284,8 @@ $\Delta x$ 与 $\Delta p$ 的测量精度与测量仪器与测量方法是否完
 定态和基态有什么区别？  
 定态指原子具有确定能量的稳定状态，基态指能量最低的状态。  
   
-一个处于 n = 4 的激发态的氢原子向低能级跃迁时能发出几种不同波长的光？  
-1 种。  
+一个处于 n = 4 的激发态的氢原子向低能级跃迁时最多能发出几种不同波长的光？  
+3 种。4->3->2->1  
   
 一群处于 n = 4 的激发态的氢原子向低能级跃迁时能发出几种不同波长的光？  
 6 种。  
