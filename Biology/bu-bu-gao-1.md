@@ -1,5 +1,7 @@
-# 步步高 1 走近细胞  
-  
+# 生物第一单元第 1 讲 走近细胞  
+
+[![hackmd-github-sync-badge](https://hackmd.io/cnsZnhUySG-C6CddZIlHMA/badge)](https://hackmd.io/cnsZnhUySG-C6CddZIlHMA)
+
 ###### tags: `Biology`  
   
 ## 细胞是最基本的生命系统  
@@ -255,6 +257,9 @@ XX 霉菌是原核生物还是真核生物？
   
 判断：细胞器种类、数量的不同体现了真核细胞功能的差异性。  
 正确。  
+
+判断：浮游植物都是真核生物。  
+错误。浮游植物通常指浮游藻类，包括蓝藻、绿藻等，既有真核生物也有原核生物。
   
 拟核是什么？  
 原核细胞内有一个**环状** DNA 分子，位于细胞内特定区域，这个区域叫拟核。  
