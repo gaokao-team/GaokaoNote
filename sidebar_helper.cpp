@@ -12,7 +12,7 @@ using std::filesystem::directory_iterator;
 
 int main() 
 {
-    string path = std::filesystem::current_path();
+    string path = std::filesystem::current_path().generic_string();
     ofstream output;
     output.open(path + "/_sidebar.md");
     for (const auto & sub : directory_iterator(path))
