@@ -2,6 +2,8 @@ $\require{mhchem}$
 
 # 化学选修 5 第一章知识点整理
 
+[![hackmd-github-sync-badge](https://hackmd.io/slxvhTYgSruqy_t3lKwwOA/badge)](https://hackmd.io/slxvhTYgSruqy_t3lKwwOA)
+
 ###### tags: `Chemistry`
 
 ## 有机化合物的分类
