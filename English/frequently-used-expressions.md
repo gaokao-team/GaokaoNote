@@ -1,5 +1,8 @@
 # 读后续写常用语块  
 
+[![hackmd-github-sync-badge](https://hackmd.io/yygiFJfYTKSW--Cq8dHn_w/badge)](https://hackmd.io/yygiFJfYTKSW--Cq8dHn_w)
+
+
 ###### tags: `English`
 
 ## 1 人物肖像描写  
@@ -59,7 +62,7 @@ He was sparking blue eyes, thin silver hair that pills onto his forehead, and tu
 
 a satisfied look 满意的表情  
 an encouraging expression 令人鼓舞的表情  
-indescirbably wild joy 难以形容的开心  
+indescribably wild joy 难以形容的开心  
 be in high spirits 精神高涨  
 be wild with delight 欣喜若狂  
 
@@ -128,7 +131,7 @@ possess an independent chararcter 具有独立的性格
 an out spoken man 说话直率的人  
 stand out from the crowd 脱颖而出  
 with the virtue of 具有……的美德  
-grittering one's teeth 牙齿发抖  
+gritting one's teeth 咬牙切齿  
 look from the corner of my eye 用余光看他  
 a slightly frustrated expression 有点沮丧的表情  
 
@@ -258,7 +261,7 @@ clear up （天气）放晴
 constant rains 连续不断的雨  
 bask in the sunshine 沐浴在日光中  
 
-The sun began to rise in the sky, bathing in the mountain in the golden light.  
+The sun began to rise in the sky, bathing the mountain in the golden light.  
 太阳开始升起，给山披上了一层金纱。  
 
 The sun rose over in a quiet world and looked warmly down upon the peaceful village.  
