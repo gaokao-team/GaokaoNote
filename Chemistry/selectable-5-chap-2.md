@@ -2,6 +2,8 @@ $\require{mhchem}$
 
 # 化学选修 5 第二章知识点整理
 
+[![hackmd-github-sync-badge](https://hackmd.io/mh3l2Iz3SlOn4Pz6O0Gytw/badge)](https://hackmd.io/mh3l2Iz3SlOn4Pz6O0Gytw)
+
 ###### tags: `Chemistry`
 
 ## 脂肪烃
