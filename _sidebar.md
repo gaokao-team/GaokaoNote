@@ -7,6 +7,8 @@
     - [化学滚动 (4 月 15 日) 知识点整理](/Chemistry/gun-dong-4-15.md)
     - [第三章 金属及其化合物](/Chemistry/jin-shu-ji-qi-hua-he-wu.md)
     - [化学选修 5 第一章知识点整理](/Chemistry/selectable-5-chap-1.md)
+    - [化学选修 5 第二章知识点整理](/Chemistry/selectable-5-chap-2.md)
+    - [化学滚动（2021.4.15）](/Chemistry/化学滚动（2021.4.15）.md)
   - Chinese
     - [语文自读课文反向测试1](/Chinese/wen-yan-wen-test-4-26.md)
     - [语文易错字默写](/Chinese/yi-cuo-zi-mo-xie.md)
@@ -32,6 +34,7 @@
     - [任务管理规范](/Other/task-rules.md)
     - [知识点笔记规范](/Other/writing-rules.md)
   - Physics
+    - [物理电磁感应任意时刻速度、路程与任意路程速度](/Physics/dian-ci-gan-ying-calc.md)
     - [物理选修 3-3 知识点整理](/Physics/selectable-3-3.md)
     - [物理全品选修 3-5 知识点整理](/Physics/wu-li-quan-pin-3-5.md)
   - Politics
