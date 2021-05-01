@@ -1,5 +1,8 @@
 # 物理电磁感应任意时刻速度、路程与任意路程速度
 
+[![hackmd-github-sync-badge](https://hackmd.io/a7X4vhMkTtOfnwwOPv2f7g/badge)](https://hackmd.io/a7X4vhMkTtOfnwwOPv2f7g)
+
+
 ###### tags: `Physics`
 
 导体以 $v_0$ 的速度进入磁感应强度为 $B$ 的磁场区域，经过 $s$ 路程后出磁场，导体质量为 $m$，长度为 $L$，电阻为 $R$，求任意时刻路程、速度。
@@ -58,5 +61,19 @@ $$
 & v = v_0e^{kt}\\
 & x = \dfrac{v_0(e^{kt} - 1)}{k}\\
 & v = v_0 + kd\\
+\end{aligned}
+$$
+
+---
+
+此外，还可以通过动量定理来计算任意路程的速度。
+
+$$
+\begin{aligned}
+& Q = \dfrac{\Delta \phi}{R} = \int I \mathrm{d}t\\
+& F = BLI \\
+\implies & \int F\mathrm{d}t = BL \times \int I\mathrm{d}t \\
+& \Delta p = BLQ = \dfrac{B^2L^2}{R} d \\
+\implies & v = v_0 - \dfrac{B^2L^2}{mR} \times d
 \end{aligned}
 $$
