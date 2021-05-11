@@ -2,6 +2,8 @@ $\require{mhchem}$
 
 # 生物第二单元第 6 讲 细胞的物质输入和输出
 
+[![hackmd-github-sync-badge](https://hackmd.io/iLqHiuACTCmCZRwRyR_qwA/badge)](https://hackmd.io/iLqHiuACTCmCZRwRyR_qwA)
+
 ###### tags: `Biology`
 
 ## 物质跨膜运输的实例
