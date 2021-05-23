@@ -4,9 +4,11 @@ $\require{mhchem}$
 
 ###### tags: `Chemistry`
 
+[![hackmd-github-sync-badge](https://hackmd.io/uaZwbWyETfaEtJazGzKXdA/badge)](https://hackmd.io/uaZwbWyETfaEtJazGzKXdA)
+
 检验 $\ce{Fe^{3+}}$ 离子方法？  
 加入硫氰化钾($\ce{KSCN}$)，溶液呈血红色。  
-$\ce{Fe^{3+} + 3SCN_3^- -> Fe(SCN)_3}$
+$\ce{Fe^{3+} + 3SCN^- -> Fe(SCN)_3}$
 
 检验 $\ce{Fe^{2+}}$ 离子方法？  
 加入铁氰化钾 $\ce{K_3[Fe(CN)_6]_3}$，生成特征蓝色沉淀。  
