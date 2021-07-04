@@ -13,6 +13,6 @@ for file in glob.glob("*.md"):
         tag = reg.search(f.read()).group(1)
         if not os.path.isdir(tag):
             os.mkdir(tag)
-        os.rename(file, tag + os.sep + file.replace(" ", "-"))
+        os.rename(file, tag + os.sep + file)
     except Exception:
         print("Error: " + file)

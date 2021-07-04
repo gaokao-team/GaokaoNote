@@ -30,6 +30,6 @@ for sub in filetree:
     f.write("  - " + sub + "\n")
     filetree[sub].sort(key=natural_sort_key)
     for item in filetree[sub]:
-        f.write("    - [" + item[0] + "](" + item[1] + ")\n")
+        f.write("    - [" + item[0] + "](" + item[1].replace(" ","-") + ")\n")
 
 f.close()
