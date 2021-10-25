@@ -8,3 +8,4 @@
 
 如果您想要参与我们的项目，请在 HackMD 的 [高考团队](https://hackmd.io/@gaokao) 中进行编辑。
 
+已经不再使用，请使用 [GaokaoBlog](https://github.com/clouder0/GaokaoBlog)
